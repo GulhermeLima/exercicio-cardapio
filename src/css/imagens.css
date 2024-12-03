@@ -1,0 +1,14 @@
+.sanduiche{
+ 
+width: 500px;
+height: auto;
+border-radius: 15px;
+box-shadow: 4px 4px 10px rgba( 0 , 0, 0 , 0.5 );
+border: 1px solid #333;
+opacity: 1;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+

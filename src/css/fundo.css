@@ -1,0 +1,27 @@
+.tempo-de-preparo {
+
+    background-color: #ffeaf2;
+    border-radius: 15px;
+}
+
+
+.conteudo-principal {
+    margin: 100px;
+    padding: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 15px;
+
+
+}
+
+
+.fundo {
+    min-width: 100vh;
+    min-height: 100vh;
+    background-color: #fdcfbf;
+
+}
